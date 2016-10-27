@@ -107,11 +107,11 @@ button:focus {
 
 @media only screen and (max-width: 992px) {
 	.header {
-		margin: 0 0 0 2px;
+		margin: 0 0 0 1px;
 	}
 
 	.textcontainer {
-		margin: 85px 0 0 2px;
+		margin: 85px 0 0 1px;
 	}
 
 	.listitem {
@@ -127,3 +127,42 @@ button:focus {
 
 }
 
+@media only screen and (max-width: 420px) {
+
+.container-fluid {
+	padding: 0 11.5px 0 11.5px;
+}
+
+.col-md-8 {
+	padding: 0 0 0 0;
+}
+
+.img1 {
+	margin: 11px 0 0 0;
+}
+
+.img2 {
+	margin: 1px 0 0 0;
+}
+
+.imgtext {
+	font-size: 9px;
+}
+
+.head1 {
+	margin: 14px 0 0 0;
+}
+
+.col-sm-2 {
+	padding: 0 0 0 0;
+}
+
+.col-xs-2 {
+	padding: 0 0 0 0;
+}
+
+.textcontainer {
+	margin: 58px 0 0 1px;
+}
+
+}
