@@ -40,6 +40,16 @@ a {
 	padding: 0 0 0 0;
 }
 
+.endnote {
+	font-family: "Inconsolata", monospace;
+	font-size: 10.7px;
+	color: grey;
+	background-color:;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	text-align: center;
+}
+
 .break {
 		font-family: "Inconsolata", monospace;
 	font-size: 9.5px;
